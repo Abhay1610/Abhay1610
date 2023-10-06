@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on the mail
+- 📫 You can reach me on the mail
 
 <!---
 Abhay1610/Abhay1610 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
